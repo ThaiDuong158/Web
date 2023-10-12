@@ -1,0 +1,13 @@
+div {
+    border: 1px black solid;
+}
+
+h1 {
+    text-align: center;
+    color: red;
+    font-weight: 600;
+}
+
+li {
+    color: blue;
+}
